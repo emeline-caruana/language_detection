@@ -1,5 +1,5 @@
 ## Language Detection / Détection de langue
-
+README in French / README en français
 Le but de ce projet est d'avoir un programme capable de détecter la langue d'un texte.
 
 ## Organisation du projet
