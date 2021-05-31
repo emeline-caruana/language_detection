@@ -4,7 +4,7 @@ import re
 from Token import *
 from math import *
 
-""" Cette classe nous permet de faire tous les calcules vectorielles nécessaires. """
+""" Cette classe nous permet de faire tous les calcules vectoriels nécessaires. """
 
 def recupVect(fic) :
     """ Cette fonction va nous serir à récupérer les valeurs de chaque clé du fichier
